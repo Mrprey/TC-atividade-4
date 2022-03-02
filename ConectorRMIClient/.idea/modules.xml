@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConectorRMIClient.iml" filepath="$PROJECT_DIR$/ConectorRMIClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConectorServidor/ConectorServidor.iml" filepath="$PROJECT_DIR$/../ConectorServidor/ConectorServidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Principal/Principal.iml" filepath="$PROJECT_DIR$/../Principal/Principal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../labCOSMOS-emprestimo/labCOSMOS-emprestimo.iml" filepath="$PROJECT_DIR$/../labCOSMOS-emprestimo/labCOSMOS-emprestimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../labCOSMOS-limite/labCOSMOS-limite1.iml" filepath="$PROJECT_DIR$/../labCOSMOS-limite/labCOSMOS-limite1.iml" />
+    </modules>
+  </component>
+</project>

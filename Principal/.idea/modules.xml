@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ConectorSimple/ConectorSimple.iml" filepath="$PROJECT_DIR$/../ConectorSimple/ConectorSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Principal.iml" filepath="$PROJECT_DIR$/Principal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../labCOSMOS-emprestimo/labCOSMOS-emprestimo.iml" filepath="$PROJECT_DIR$/../labCOSMOS-emprestimo/labCOSMOS-emprestimo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../labCOSMOS-limite/labCOSMOS-limite.iml" filepath="$PROJECT_DIR$/../labCOSMOS-limite/labCOSMOS-limite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../parte2/labCOSMOS-limite2/labCOSMOS-limite2.iml" filepath="$PROJECT_DIR$/../../parte2/labCOSMOS-limite2/labCOSMOS-limite2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../parte3/labCOSMOS-limite3/labCOSMOS-limite3.iml" filepath="$PROJECT_DIR$/../../parte3/labCOSMOS-limite3/labCOSMOS-limite3.iml" />
+    </modules>
+  </component>
+</project>
